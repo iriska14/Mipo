@@ -11,6 +11,9 @@ namespace практика
             int b = Convert.ToInt32(Console.ReadLine());
             int c = a + b;
             Console.WriteLine($"a + b = {c}");
+            int d = a - b;
+            Console.WriteLine($"a - b = {d}");
+
         }
     }
 }
