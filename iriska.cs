@@ -13,7 +13,8 @@ namespace практика
             Console.WriteLine($"a + b = {c}");
             int d = a - b;
             Console.WriteLine($"a - b = {d}");
-
+            int e = a * b;
+            Console.WriteLine($"a * b = {e}");
         }
     }
 }
